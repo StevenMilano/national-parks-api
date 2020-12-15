@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hiking-tick-list/static/css/main.89ec70d2.chunk.css",
+    "main.js": "/hiking-tick-list/static/js/main.1aaeff7f.chunk.js",
+    "main.js.map": "/hiking-tick-list/static/js/main.1aaeff7f.chunk.js.map",
+    "runtime-main.js": "/hiking-tick-list/static/js/runtime-main.cc51c637.js",
+    "runtime-main.js.map": "/hiking-tick-list/static/js/runtime-main.cc51c637.js.map",
+    "static/js/2.2339a5f0.chunk.js": "/hiking-tick-list/static/js/2.2339a5f0.chunk.js",
+    "static/js/2.2339a5f0.chunk.js.map": "/hiking-tick-list/static/js/2.2339a5f0.chunk.js.map",
+    "index.html": "/hiking-tick-list/index.html",
+    "static/css/main.89ec70d2.chunk.css.map": "/hiking-tick-list/static/css/main.89ec70d2.chunk.css.map",
+    "static/js/2.2339a5f0.chunk.js.LICENSE.txt": "/hiking-tick-list/static/js/2.2339a5f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc51c637.js",
+    "static/js/2.2339a5f0.chunk.js",
+    "static/css/main.89ec70d2.chunk.css",
+    "static/js/main.1aaeff7f.chunk.js"
+  ]
+}
